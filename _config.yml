@@ -1,5 +1,5 @@
 # Site settings
-title: 
+title:
 email: jobvandervoort at gmail dot com
 description: > # this means to ignore newlines until "baseurl:"
   Job's website.
@@ -10,3 +10,5 @@ github_username:  JobV
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-haml
