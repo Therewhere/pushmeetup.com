@@ -202,3 +202,27 @@ pre {
         }
     }
 }
+
+.job {
+  background: url(/jobvandervoort.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: 573px;
+  bottom-margin: 5px solid #111;
+}
+
+.icons {
+  margin: 21px auto;
+  text-align: center;
+  font-size: 3rem;
+
+  a {
+    color: #616161;
+    transition: all 0.15s;
+    margin: 32px;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+}
