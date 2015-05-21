@@ -93,7 +93,7 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $orange2;
     }
 
     &:hover {
@@ -224,6 +224,29 @@ pre {
 
     &:hover {
       color: #fff;
+    }
+  }
+}
+
+.content {
+  width: 520px;
+  margin: 50px auto;
+
+  h2 {
+    font-weight: 900;
+    font-variant: small-caps;
+    color: #303030;
+  }
+  p {
+    font-size: 1rem;
+  }
+
+  .project {
+    margin-top: 20px;
+    font-weight: 200;
+    h6 {
+      margin-bottom: 0;
+      font-weight: 400;
     }
   }
 }
