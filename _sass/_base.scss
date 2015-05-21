@@ -229,7 +229,7 @@ pre {
 }
 
 .content {
-  width: 520px;
+  max-width: 520px;
   margin: 50px auto;
 
   h2 {
@@ -254,6 +254,10 @@ pre {
 @media only screen
 and (min-device-width : 300px)
 and (max-device-width : 667px) {
+  .content {
+    width: 320px;
+    padding: 10px;
+  }
   .job {
     height: 300px !important;
   }
