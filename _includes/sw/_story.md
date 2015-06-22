@@ -36,11 +36,25 @@ that is cleaning the halls. On inspection, he finds a glitch in his software
 and is able to remove the restraining bolt from the robot in a loud BANG.
 Toor agrees to help the Rebels and starts working on fixing the anti-air turret.
 
-- Rebels in armory
+Upon hearing a noise coming from the Armory, the Rebels open the Armory and
+find four restrained Imperial Army soldiers. One falls in front of Tarr Nos and
+Shar the moment they open the door and Shar does not hesitate to give him an
+extra punch in the face. Two other imperials are shot in the head and a fourth is
+interrogated about the base.
+
+(what happened to the remaining two imperials?)
+
+They get some information about a nearby village, Darrastead, whose inhabitants
+were used to build Whisper base.
+
+Tarr and Shar decide to fly to Darrastead on two speeders.
 
 ## Darrastead
 
-- crash speeder of Tarr Nos
+On their way to Darrastead, Tarr Nos crashes his speeder and the team encounters a bewildered imperial
+army trooper. The trooper is promptly killed by Shar with a shot of his blaster,
+while he sits calmly on his speeder.
+
 - village
 - village elder
 - location of beast riders hunting grounds
