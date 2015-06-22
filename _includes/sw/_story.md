@@ -21,6 +21,36 @@ It is up to our heroes to prevent this from happening..
 
 ## Whisper Base
 
+**Shar Dok**, often referring to himself as _The Shield_ arrives together with
+**Tarr Nos-Shael** at Whisper Base, after being dropped with a shuttle from
+[a rebel GR-75](http://starwars.wikia.com/wiki/GR-75_medium_transport).
+
+The base is in a bad state. The Nilos, a shuttle that is stored at the landing
+pad in the base, has one engine blown out. There is almost everything available
+to repair it, but an essential _Flux Capacitor_. One of the anti-air turrets
+is in a bad state and the Signal Intelligence (SigInt) array clearly needs some
+maintenance.
+
+Tarr Nos-Shael attempts to look at the data stored in **Toor**, the robot
+that is cleaning the halls. On inspection, he finds a glitch in his software
+and is able to remove the restraining bolt from the robot in a loud BANG.
+Toor agrees to help the Rebels and starts working on fixing the anti-air turret.
+
+- Rebels in armory
+
 ## Darrastead
 
+- crash speeder of Tarr Nos
+- village
+- village elder
+- location of beast riders hunting grounds
+
+## Whisper Base
+
+- assignment of posts
+- 5XP
+
 ## Beast Rider Initiation
+
+- killing shield bunker
+- 5xp
