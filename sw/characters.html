@@ -1,0 +1,26 @@
+---
+title: Characters | Star Wars RPG
+layout: materialize
+---
+
+<div class="row">
+
+  <ul id="slide-out" class="side-nav fixed">
+     <li><a href="#tarr-nos-shael">Tarr Nos-Shael</a></li>
+     <li><a href="#shar">Shar Dok</a></li>
+
+   </ul>
+   <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+
+  <div class="story">
+    <div class="container">
+      <div class="flow-text">
+        {% capture story %}{% include sw/_characters.md %}{% endcapture %}
+        {{ story  | markdownify }}
+
+      </div>
+
+    </div>
+  </div>
+
+</div>
