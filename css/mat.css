@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+h1 {
+  font-weight: 600;
+}
+
+h2, h3 {
+  font-weight: 200;
+}
+
+
+.story {
+  padding-left: 240px;
+}
+
+@media only screen and (max-width : 992px) {
+  .story {
+    padding-left: 0;
+  }
+}
