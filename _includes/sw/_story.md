@@ -72,10 +72,9 @@ details, but gives them the location of one of their hunting grounds.
 
 ## Whisper Base
 
-- assignment of posts
-- 5XP
+Back in the base, Shar Dok and Tarr Nos-Shael assign the villagers
+to several posts and train a number of them.
 
 ## Beast Rider Initiation
 
 - killing shield bunker
-- 5xp
