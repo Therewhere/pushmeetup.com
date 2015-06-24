@@ -55,9 +55,20 @@ On their way to Darrastead, Tarr Nos crashes his speeder and the team encounters
 army trooper. The trooper is promptly killed by Shar with a shot of his blaster,
 while he sits calmly on his speeder.
 
-- village
-- village elder
-- location of beast riders hunting grounds
+The team is brought to the elder of the shabby village.
+The Imperial presence clearly has taken its toll on the villagers and
+there is a noticeable lack of tech to be seen.
+
+The village elder, a frail, yet sharp, old lady, needs some convincing
+about their identities before asking for supplies for the village.
+
+Tarr Nos and Shar agree to send two speeder bikes with supplies to the
+village. In exchange, the village will send ten willing men and women to
+Whisper base for maintenance and general help.
+
+On their way out, Shar asks about any other help they might get from the jungle
+and the village elder speaks about the **Beast Riders**. She doesn't give many
+details, but gives them the location of one of their hunting grounds.
 
 ## Whisper Base
 
