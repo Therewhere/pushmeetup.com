@@ -77,4 +77,37 @@ to several posts and train a number of them.
 
 ## Beast Rider Initiation
 
-- killing shield bunker
+- Shar and Tarr-Nos murder a bunker to get recognized as heroes by
+the beast Riders
+
+# Session 2: Shopping
+
+After Shar disappears into the Jungle, Tarr-Nos is alone in Whisper Base.
+An 'escape' pod drops down, with Zekk on board.
+
+Zekk has three eyes and joins Tarr-Nos in the fight against the rebellion.
+
+## Imperial Patrol
+
+Not much later, an imperial patrol is spotted moving away from the base by Tiffany (Ti-FANY).
+The heroes try to ambush the patrol, but Tarr-Nos ends the battle
+unconcious. The last imperial is slain by a mysterious man with a sword.
+Jaton Paxos joins the crew.
+
+## Beast Rider Lodge
+
+With the proof of imperial ownage, the three set out to the lodge
+of the beast riders, where Tarr-Nos wins a golden-tipped spear
+in a drinking game. A short-haired beast rider get knocked out by
+Tarr-Nos' shock gloves.
+The beast riders pledge their help.
+
+## Iziz
+
+The crew heads to Iziz for shopping and looking for intel.
+
+Initially they try to upgrade Toor, which looks expensive.
+They end up being able to upgrade his hands formidably, allowing
+him to carry and use a blaster with some expertise.
+
+Next they were off to Sunbucks for a nice space-coffee and some intel.
