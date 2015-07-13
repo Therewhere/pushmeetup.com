@@ -6,7 +6,7 @@ Tarr-Nos-Shael was a younger Cerean, who looked back on the technology-uprising 
 
 He went into apprenticeship with the wookies, because they, the masters of the forest, have mastered both technology and nature. Working on many types of ships, both Empire and non-empire ships, at the various spaceports on Kashyyyk. Even getting to dabble a bit with secret smuggling compartments and aftermarket security upgrades. This also taught him how to deal with a wide variety of characters. After a couple of years and threats from the empire, he felt it was time to leave Kashyyyk. Hitching a ride on what he thought wat was a regular transport to Dantooine, he found himself on a secret rebellion transport. The rebel commander on the transport convinced him to work for the rebellion, they needed good Wookie-trained engineers to fix the ships. Tarr-Nos agreed with the commander and he went with them to the secret base on Dantooine.
 
-## Shar Dok 
+## Shar Dok
 
 ## Jaton Paxos
 
@@ -14,3 +14,9 @@ He went into apprenticeship with the wookies, because they, the masters of the f
 - Lived in Coruscant
 - Honest businessman
 - Spy: Infiltrator
+
+## D43
+
+## Bashar
+
+## Zekk
