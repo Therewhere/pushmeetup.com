@@ -17,7 +17,7 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #fff;
-$background-color: #616161;
+$background-color: #fff;
 $brand-color:      $orange;
 
 $grey-color:       #828282;
@@ -57,13 +57,13 @@ $on-laptop:        800px;
 
 html,body {
   height: 100%;
-  background: url(bg4.jpg) no-repeat center center;
-  background-size: cover;
-  background-attachment: fixed;
 }
 
 .main-block {
   height: 100%;
+  background: url(bg4.jpg) no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 h1 {
@@ -88,7 +88,7 @@ h1 {
 .phone {
   position: relative;
   top: 15%;
-}
+  width: auto;}
 
 a.btn {
   /* Rectangle 14: */
@@ -111,6 +111,37 @@ a.btn {
     background: #EB503F;
     background-position: top;
   }
+}
+
+.block {
+  text-align: center;
+  background-color: white;
+  color: #FF7D60;
+}
+
+.question {
+  margin-top: 100pt;
+
+  h2 {
+    /* We made this just fo: */
+    font-family: Roboto-Medium;
+    font-size: 50px;
+    color: #FF7D60;
+  }
+  p {
+    /* We wanted a quick al: */
+    font-family: Roboto-Medium;
+    font-size: 25px;
+    color: #6B6B6B;
+    text-align: justify;
+    a:hover {
+      color: #333;
+    }
+  }
+}
+
+.center {
+  text-align: center !important;
 }
 
 @media screen and (max-width: 568px) {
