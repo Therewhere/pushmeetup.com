@@ -3,7 +3,7 @@ title: pushmeetup
 email: jobvandervoort at gmail dot com
 description: > # this means to ignore newlines until "baseurl:"
   Pushmeetup.com
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/pushmeetup.com" # the subpath of your site, e.g. /blog/
 url: "http://pushmeetup.com" # the base hostname & protocol for your site
 twitter_username: Jobvo
 github_username:  JobV
