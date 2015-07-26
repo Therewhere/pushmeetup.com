@@ -116,13 +116,21 @@ a.btn {
 @media screen and (max-width: 568px) {
   .grid, .unit {
     height: auto;
+    text-align: center;
   }
   .main-message {
     text-align: center;
     position: inherit;
     top: 0%;
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 20pt;
+    }
+  }
+  a.btn {
+    float: none;
   }
   img {
-    // width: 100%;
+    margin-top: 20pt;
   }
 }
