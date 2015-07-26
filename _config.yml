@@ -1,8 +1,8 @@
 # Site settings
-title:
+title: pushmeetup
 email: jobvandervoort at gmail dot com
 description: > # this means to ignore newlines until "baseurl:"
-  Pushmeetup
+  Pushmeetup.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pushmeetup.com" # the base hostname & protocol for your site
 twitter_username: Jobvo
