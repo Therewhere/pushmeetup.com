@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900);
+@import url(http://fonts.googleapis.com/css?family=Roboto:100,300,400,700,900);
 
 $orange: #FFAE00;
 $orange2: #E26011;
@@ -54,3 +54,73 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+html,body {
+  height: 100%;
+  background: url(bg3.jpg) no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.main-block {
+  height: 100%;
+}
+
+h1 {
+  /* Tap to share locatio: */
+  font-family: Roboto-Medium;
+  font-size: 52px;
+  color: #FFFFFF;
+  line-height: 61px;
+  text-shadow: 0px 0px 22px rgba(0, 0, 0, 0.6)
+}
+
+.grid, .unit {
+  height: 100%;
+}
+
+.main-message {
+  text-align: right;
+  position: relative;
+  top: 30%;
+}
+
+.phone {
+  position: relative;
+  top: 15%;
+}
+
+.btn {
+  /* Rectangle 14: */
+  border: 4px solid #EB503F;
+  border-radius: 5px;
+  /* Get it in the AppSto: */
+  font-family: Roboto-Medium;
+  font-size: 23px;
+  color: white;
+  line-height: 27px;
+  width: 220px;
+  text-align: center;
+  background-color: rgba(51, 51, 51, 0.41);
+  padding: 15px 20px;
+  float: right;
+
+  &:hover {
+    background: #EB503F;
+    background-position: top;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .grid, .unit {
+    height: auto;
+  }
+  .main-message {
+    text-align: center;
+    position: inherit;
+    top: 0%;
+  }
+  img {
+    // width: 100%;
+  }
+}
